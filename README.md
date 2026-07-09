@@ -20,10 +20,9 @@ absensi dan pengajuan — sesuai ketentuan UAS Pemrograman Mobile 1.
 | Nama | NPM | Peran |
 |---|---|---|
 | _(Muhammad Daffa S.F.P.N)_ | _(24552011326)_ | Project Lead / UI |
-| _(Moch Zaky Akbar | _(24552011323)_ | Database & Lokasi |
+| _(Moch Zaky Akbar_ | _(24552011323)_ | Database & Lokasi |
 | _(Rizky Maulana)_ | _(24552011345)_ | Kamera & Izin/Cuti |
 
-> Lengkapi tabel di atas dengan nama dan NPM asli seluruh anggota kelompok sebelum submit.
 
 ## Link Video Penjelasan
 _(tempel link YouTube/Google Drive video demo & penjelasan kode di sini — pastikan akses "dapat dilihat oleh siapa saja")_
