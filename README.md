@@ -28,7 +28,13 @@ absensi dan pengajuan — sesuai ketentuan UAS Pemrograman Mobile 1.
 _(tempel link YouTube/Google Drive video demo & penjelasan kode di sini — pastikan akses "dapat dilihat oleh siapa saja")_
 
 ## Screenshot Aplikasi
-_(tempel minimal 2 screenshot tampilan aplikasi di sini, contoh:)_
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/9c0acbaa-d43f-4600-9b9d-53b1cf8edb07" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/b31c4348-1d80-456f-a7bf-fb4e247b93ae" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/7e356061-f2dc-4be7-99b7-115447491186" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/0eefbc50-40b1-4cd0-b32b-a936cbcf4cc2" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/e6d9cdbe-aa1e-462d-9e96-a700cf71567a" />
+
+
 
 | Beranda | Absen Masuk |
 |---|---|
