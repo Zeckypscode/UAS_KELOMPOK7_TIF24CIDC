@@ -1,9 +1,9 @@
 # SiapSen — Aplikasi Absensi Karyawan
 
 ## Deskripsi Project
-SiapSen adalah aplikasi absensi karyawan yang dibangun secara native menggunakan Kotlin di platform Android. Aplikasi ini dirancang untuk menghadirkan proses pencatatan kehadiran karyawan yang lebih praktis, cepat, dan dapat diandalkan.
-Melalui SiapSen, karyawan dapat melakukan absen masuk dan pulang hanya dengan beberapa sentuhan di layar. Setiap absensi tercatat lengkap dengan bukti foto selfie dan titik lokasi (GPS) secara otomatis, sehingga data kehadiran yang dihasilkan lebih akurat dan mudah dipertanggungjawabkan. Selain fitur absensi harian, aplikasi ini juga menghadirkan fitur pengajuan izin dan cuti lengkap dengan kolom alasan, rentang tanggal, dan lampiran dokumen pendukung, sehingga proses administrasi kepegawaian menjadi lebih rapi dan terdokumentasi dengan baik.
-Seluruh riwayat kehadiran dan status pengajuan dapat dipantau kapan saja melalui halaman riwayat, yang menampilkan data secara berurutan dan mudah ditelusuri. Dengan antarmuka yang bersih dan alur penggunaan yang sederhana, SiapSen hadir untuk memberikan pengalaman absensi yang efisien dan transparan, baik bagi karyawan maupun pihak manajemen.
+Waktu jadi lebih mudah dikendalikan. Kehadiran jadi lebih mudah dibuktikan. Perkenalkan SiapSen, aplikasi absensi karyawan berbasis Android yang dibangun secara native menggunakan Kotlin, hadir untuk membuat pencatatan kehadiran secepat membuka smartphone.
+Melalui kombinasi kamera dan GPS, setiap sesi absen masuk maupun pulang terverifikasi secara otomatis lewat foto dan titik lokasi real-time, sehingga proses yang dulunya memakan waktu kini selesai dalam hitungan detik. Kebutuhan izin dan cuti pun dapat diajukan langsung dari aplikasi, lengkap dengan alasan dan rentang tanggal, tanpa perlu proses administrasi yang berbelit.
+Seluruh riwayat kehadiran dan status pengajuan tersaji rapi dan mudah ditelusuri kapan saja, sementara pengelolaan akun tetap sederhana lewat halaman profil. Dengan antarmuka yang bersih dan alur yang ringkas, SiapSen menghadirkan cara baru dalam mengelola waktu kehadiran bagi karyawan, dan bagi perusahaan.
 
 ### Fitur Utama
 - ✅ **Absen Masuk & Absen Keluar** — satu sentuhan tombol, lengkap bukti foto & lokasi
