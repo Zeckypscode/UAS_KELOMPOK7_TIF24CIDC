@@ -75,8 +75,3 @@ SiapsenApp/
 └── README.md
 ```
 
-## Ketentuan UAS yang Dipenuhi
-- Platform: **Android Native Kotlin** (bukan Flutter/React Native)
-- Komponen wajib: **Activity, Fragment, RecyclerView, Intent** ✅
-- Database lokal: **Room** ✅
-- Aplikasi stabil, seluruh fitur utama berjalan sesuai rencana ✅
