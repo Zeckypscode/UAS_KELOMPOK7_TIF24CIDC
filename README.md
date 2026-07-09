@@ -36,10 +36,6 @@ _(tempel link YouTube/Google Drive video demo & penjelasan kode di sini — past
 
 
 
-| Beranda | Absen Masuk |
-|---|---|
-| ![home](docs/screenshot_home.png) | ![absen](docs/screenshot_absen.png) |
-
 ## Cara Menjalankan Project
 
 1. Clone repository:
