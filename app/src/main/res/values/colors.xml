@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_primary">#FFA800</color>
+    <color name="orange_dark">#E69500</color>
+    <color name="green_masuk">#2E7D32</color>
+    <color name="red_keluar">#C62828</color>
+    <color name="blue_izin">#1565C0</color>
+    <color name="teal_cuti">#00796B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1A1A1A</color>
+    <color name="gray_bg">#F5F5F5</color>
+    <color name="gray_text">#757575</color>
+    <color name="status_pending">#F9A825</color>
+    <color name="status_disetujui">#2E7D32</color>
+    <color name="status_ditolak">#C62828</color>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Beranda" />
+
+    <item
+        android:id="@+id/riwayatFragment"
+        android:icon="@drawable/ic_history"
+        android:title="Riwayat" />
+
+    <item
+        android:id="@+id/approvalFragment"
+        android:icon="@drawable/ic_approval"
+        android:title="Approval"/>
+
+    <item
+        android:id="@+id/hrFragment"
+        android:icon="@drawable/ic_people"
+        android:title="Presensi"/>
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="Profil" />
+
+</menu>

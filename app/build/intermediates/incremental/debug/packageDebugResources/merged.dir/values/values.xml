@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1A1A1A</color>
+    <color name="blue_izin">#1565C0</color>
+    <color name="gray_bg">#F5F5F5</color>
+    <color name="gray_text">#757575</color>
+    <color name="green_masuk">#2E7D32</color>
+    <color name="orange_dark">#E69500</color>
+    <color name="orange_primary">#FFA800</color>
+    <color name="red_keluar">#C62828</color>
+    <color name="status_disetujui">#2E7D32</color>
+    <color name="status_ditolak">#C62828</color>
+    <color name="status_pending">#F9A825</color>
+    <color name="teal_cuti">#00796B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="absen_keluar">Absen Keluar</string>
+    <string name="absen_masuk">Absen Masuk</string>
+    <string name="ajukan">Ajukan</string>
+    <string name="ambil_foto">Ambil Foto</string>
+    <string name="app_name">SiapSen</string>
+    <string name="beranda">Beranda</string>
+    <string name="cuti">Cuti</string>
+    <string name="izin">Izin</string>
+    <string name="lokasi_saat_ini">Lokasi Saat Ini</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="submit_absen">Simpan Absen</string>
+    <string name="tagline">Jangan Lupa Absen Hari Ini.</string>
+    <style name="Theme.SiapSen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorPrimaryVariant">@color/orange_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/orange_dark</item>
+        <item name="android:statusBarColor">@color/orange_primary</item>
+        <item name="android:windowBackground">@color/gray_bg</item>
+    </style>
+</resources>

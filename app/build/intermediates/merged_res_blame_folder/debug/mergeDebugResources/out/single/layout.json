@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_profile.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/activity_login.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_izin_cuti.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_izin_cuti.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/item_approval.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/item_approval.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/activity_register.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_edit_profile.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_approval.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_approval.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/item_presensi.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/item_presensi.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/item_riwayat_absen.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/item_riwayat_absen.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_absen.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_absen.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_change_password.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_riwayat.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_riwayat.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/fragment_hr.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_hr.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-mergeDebugResources-54:/layout/item_riwayat_izin.xml",
+        "source": "com.example.siapsen.app-main-57:/layout/item_riwayat_izin.xml"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_logout.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_profile.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_activity_login.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_hr.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_hr.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/navigation_nav_graph.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_location.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_bg_rounded_card.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/bg_rounded_card.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_item_approval.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/item_approval.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_people.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_people.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_riwayat.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_riwayat.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_profile.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_bg_menu_cuti.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/bg_menu_cuti.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_login.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_login.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_bg_menu_masuk.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/bg_menu_masuk.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_home.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_bg_status_pill.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/bg_status_pill.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_camera.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/xml_file_paths.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_change_password.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_approval.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_approval.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_activity_register.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_approval.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_approval.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_izin_cuti.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_izin_cuti.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_bg_menu_izin.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/bg_menu_izin.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_edit_profile.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_home.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_item_riwayat_absen.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/item_riwayat_absen.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_item_riwayat_izin.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/item_riwayat_izin.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_history.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_ic_check_circle.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_fragment_absen.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/fragment_absen.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_activity_main.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/layout_item_presensi.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/layout/item_presensi.xml"
+    },
+    {
+        "merged": "com.example.siapsen.app-debug-55:/drawable_bg_menu_keluar.xml.flat",
+        "source": "com.example.siapsen.app-main-57:/drawable/bg_menu_keluar.xml"
+    }
+]

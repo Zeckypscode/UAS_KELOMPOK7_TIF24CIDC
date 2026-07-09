@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SiapSen</string>
+    <string name="tagline">Jangan Lupa Absen Hari Ini.</string>
+    <string name="absen_masuk">Absen Masuk</string>
+    <string name="absen_keluar">Absen Keluar</string>
+    <string name="izin">Izin</string>
+    <string name="cuti">Cuti</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="beranda">Beranda</string>
+    <string name="ambil_foto">Ambil Foto</string>
+    <string name="lokasi_saat_ini">Lokasi Saat Ini</string>
+    <string name="submit_absen">Simpan Absen</string>
+    <string name="ajukan">Ajukan</string>
+</resources>
