@@ -25,7 +25,7 @@ absensi dan pengajuan — sesuai ketentuan UAS Pemrograman Mobile 1.
 
 
 ## Link Video Penjelasan
-_(tempel link YouTube/Google Drive video demo & penjelasan kode di sini — pastikan akses "dapat dilihat oleh siapa saja")_
+https://drive.google.com/drive/folders/1HZuZ8qOqCT2RFPdwf45iMnBPBUMPSfw2?usp=drive_link
 
 ## Screenshot Aplikasi
 <img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/9c0acbaa-d43f-4600-9b9d-53b1cf8edb07" />
