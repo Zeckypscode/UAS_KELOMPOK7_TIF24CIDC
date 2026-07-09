@@ -1,10 +1,9 @@
 # SiapSen — Aplikasi Absensi Karyawan
 
 ## Deskripsi Project
-SiapSen adalah aplikasi absensi karyawan berbasis **Android Native (Kotlin)**.
-Aplikasi ini memungkinkan pengguna melakukan absen masuk/keluar dengan bukti
-foto dan lokasi otomatis, mengajukan izin/cuti, serta melihat riwayat
-absensi dan pengajuan — sesuai ketentuan UAS Pemrograman Mobile 1.
+SiapSen adalah aplikasi absensi karyawan yang dibangun secara native menggunakan Kotlin di platform Android. Aplikasi ini dirancang untuk menghadirkan proses pencatatan kehadiran karyawan yang lebih praktis, cepat, dan dapat diandalkan.
+Melalui SiapSen, karyawan dapat melakukan absen masuk dan pulang hanya dengan beberapa sentuhan di layar. Setiap absensi tercatat lengkap dengan bukti foto selfie dan titik lokasi (GPS) secara otomatis, sehingga data kehadiran yang dihasilkan lebih akurat dan mudah dipertanggungjawabkan. Selain fitur absensi harian, aplikasi ini juga menghadirkan fitur pengajuan izin dan cuti lengkap dengan kolom alasan, rentang tanggal, dan lampiran dokumen pendukung, sehingga proses administrasi kepegawaian menjadi lebih rapi dan terdokumentasi dengan baik.
+Seluruh riwayat kehadiran dan status pengajuan dapat dipantau kapan saja melalui halaman riwayat, yang menampilkan data secara berurutan dan mudah ditelusuri. Dengan antarmuka yang bersih dan alur penggunaan yang sederhana, SiapSen hadir untuk memberikan pengalaman absensi yang efisien dan transparan, baik bagi karyawan maupun pihak manajemen.
 
 ### Fitur Utama
 - ✅ **Absen Masuk & Absen Keluar** — satu sentuhan tombol, lengkap bukti foto & lokasi
