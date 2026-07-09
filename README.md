@@ -19,10 +19,9 @@ absensi dan pengajuan — sesuai ketentuan UAS Pemrograman Mobile 1.
 ## Daftar Anggota
 | Nama | NPM | Peran |
 |---|---|---|
-| _(isi nama)_ | _(isi NPM)_ | Project Lead / UI |
-| _(isi nama)_ | _(isi NPM)_ | Database & Lokasi |
-| _(isi nama)_ | _(isi NPM)_ | Kamera & Izin/Cuti |
-| _(isi nama)_ | _(isi NPM)_ | Riwayat & QA |
+| _(Muhammad Daffa S.F.P.N)_ | _(24552011326)_ | Project Lead / UI |
+| _(Moch Zaky Akbar | _(24552011323)_ | Database & Lokasi |
+| _(Rizky Maulana)_ | _(24552011345)_ | Kamera & Izin/Cuti |
 
 > Lengkapi tabel di atas dengan nama dan NPM asli seluruh anggota kelompok sebelum submit.
 
